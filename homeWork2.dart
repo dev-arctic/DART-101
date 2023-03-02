@@ -1,5 +1,5 @@
 import 'Customers.dart';
-import 'hotels.dart';
+import '../hotels.dart';
 
 void main(List<String> args) {
   
