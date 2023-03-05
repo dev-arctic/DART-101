@@ -26,9 +26,7 @@ void main(List<String> args) {
   bool? isUser = false;
   int? number = 0;
 
-  number == 0 ? isUser = false 
-  : number == 1 ? isUser = true
-   : isUser = null; 
+  number == 0 ? isUser = false : number == 1 ? isUser = true: isUser = null; 
  
 
   
