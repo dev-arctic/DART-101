@@ -37,7 +37,6 @@ class user2{
   late final String id;// private variables ismi " _ " ekle 
 
     user2(this.name,this.money,this.age,this.city ,{required this.id}){
-      city ?? "ist";
     } // yine this diyerek direkt olarak siniftaki degerere atam yaptiriyorum. farkli bir kullanim
 }
 
